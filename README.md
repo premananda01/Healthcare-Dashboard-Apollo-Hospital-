@@ -1,1 +1,1 @@
-# Healthcare-Dashboard-Apollo-Hospital-
+"In my data analytics project, I conducted an in-depth healthcare analysis for Apollo Hospital, one of the leading hospitals in India. Using Excel for data management and Power BI for visualization, I developed an interactive dashboard that provides valuable insights into various healthcare metrics. This project demonstrates my ability to leverage data analytics tools to inform decision-making in the healthcare sector, showcasing my proficiency in Excel and Power BI."
